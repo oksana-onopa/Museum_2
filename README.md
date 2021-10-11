@@ -1,6 +1,6 @@
 # Museum landing page
 
-Stack: HTML5, SASS, BEM, JS.
+HTML5, CSS3, SASS, Figma, BEM methodology, JS
 
 Fully responsive layout was made by using CSS Grid and Flexbox.
 
