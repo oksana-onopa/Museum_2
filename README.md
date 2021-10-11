@@ -1,7 +1,4 @@
 # Museum landing page
-The landing page is demonstrated a possible solution of visualization of the layout design for National Art Museum of Ukraine.
-The main purpose of this project is mastering HTML & CSS with minimum JS involving.
-
 
 Stack: HTML5, SASS, BEM, JS.
 
